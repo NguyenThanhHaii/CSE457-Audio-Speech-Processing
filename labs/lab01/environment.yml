@@ -1,0 +1,14 @@
+name: cse457-lab1
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - scipy
+  - pydub
+  - ffmpeg
+  - ipykernel
+  - numpy
+  - librosa
+prefix: C:\Users\LENOVO\anaconda3\envs\cse457-lab1

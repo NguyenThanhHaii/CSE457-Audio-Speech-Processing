@@ -1,18 +1,29 @@
-# Lab 01 - Phân tích và xử lý tín hiệu âm thanh số
+# CSE457 - Lab 1
+
+## Phân tích và xử lý tín hiệu âm thanh số
+
+### Sinh viên
+
+- Họ tên: Nguyen Thanh Hai
+- MSSV: 2351260650
 
 ## Nội dung
 
-- Đọc và phân tích tín hiệu âm thanh
-- Waveform
-- FFT
-- STFT / Spectrogram
-- Lọc số
-- Resampling
-- Lượng tử hóa
-- Mã hóa âm thanh
+- [ ] A. Đọc và kiểm tra dữ liệu âm thanh
+- [ ] B. Phân tích miền thời gian
+- [ ] C. Phân tích miền tần số bằng FFT
+- [ ] D. STFT và Spectrogram
+- [ ] E. Thí nghiệm cửa sổ
+- [ ] F. Lọc số
+- [ ] G. Lượng tử hóa, Resampling và mã hóa
 
-## Files
+## Environment
 
-- `lab01.ipynb`: notebook chính
-- `data/`: dữ liệu đầu vào
-- `outputs/`: kết quả đầu ra
+- Python 3.11
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- Librosa
+- SoundFile
+- Pydub
